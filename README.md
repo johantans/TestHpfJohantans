@@ -2,4 +2,5 @@ TestHpfJohantans
 ================
 
 Eindtest Java Programming Fundamentals
-Dit wordt aangeraden.
+Het wordt aangeraden een readme te creëren bij elkle nieuwe repository.
+
